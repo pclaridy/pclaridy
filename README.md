@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hi! 👋
 
 I am Pamela. A skilled and dynamic Data Scientist currently pursuing my Master of Science in Analytics at Georgia Institute of Technology. I hold a Bachelor of Science in Mathematics from Georgia State University. I excel in machine learning, programming, database management, and advanced data visualization, synthesizing complex datasets into actionable business insights and enhancing decision-making processes.
 
@@ -28,6 +28,4 @@ You can ask me anything about data science, machine learning, or business analyt
 </p>
 
 <img src="your-data-science-stats.gif" width="90%"><br/><br/>
-
--->
 
