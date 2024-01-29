@@ -27,5 +27,5 @@ You can ask me anything about data science, machine learning, or business analyt
   <img src="https://profile-counter.glitch.me/pclaridy/count.svg" />
 </p>
 
-<img src="your-data-science-stats.gif" width="90%"><br/><br/>
+
 
