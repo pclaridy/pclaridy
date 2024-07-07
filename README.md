@@ -2,20 +2,11 @@
 
 I'm **Pamela**, a skilled and dynamic Data Scientist currently enriching my expertise with an **MS in Analytics at Georgia Institute of Technology**. Holding a **BS in Mathematics from Georgia State University**, my proficiency lies in machine learning, programming, database management, advanced data visualization, and natural language processing. I'm adept at transforming complex datasets into actionable insights, significantly enhancing decision-making processes.
 
-## 🚀 Current Focus and Achievements
+## ✨ Current Focus and Achievements
 
 - **Enhancing operational efficiency** and driving business growth through data-driven strategies.
 - Comprehensive experience in various data science domains, including **machine learning**, **deep learning**, **natural language processing (NLP)**, and advanced statistical techniques.
 - Specialized in creating impactful visualizations, managing databases, and conducting ETL operations.
-
-## ✨ One line that describes me best
-A data-driven strategist passionate about turning complex data into insightful and actionable business solutions.
-
-## 📬 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/pamelaclaridy/)
-- Email: [pclaridy@gmail.com](mailto:pclaridy@gmail.com)
-
-Feel free to reach out to me about anything related to data science, machine learning, or business analytics. I am always ready to absorb new knowledge, gain invaluable experience, collaborate on exciting projects, and apply my skills to create impactful solutions.
 
 ## 🔧 Skills
 
@@ -34,6 +25,12 @@ Feel free to reach out to me about anything related to data science, machine lea
 - **Project Management and BI**: Business Intelligence, Project Management
 - **Geospatial Analysis**: Geospatial Analysis
 - **Version Control**: Git
+
+## 📬 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/pamelaclaridy/)
+- Email: [pclaridy@gmail.com](mailto:pclaridy@gmail.com)
+
+Feel free to reach out to me about anything related to data science, machine learning, or business analytics. I am always ready to absorb new knowledge, gain invaluable experience, collaborate on exciting projects, and apply my skills to create impactful solutions.
 
 <p align="center"> 
   Visitor Count<br>
