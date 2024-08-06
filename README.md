@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Pamela**, a skilled and dynamic Data Scientist with an **MS in Analytics from the Georgia Institute of Technology** and a **BS in Mathematics from Georgia State University**. My proficiency lies in machine learning, programming, database management, advanced data visualization, and natural language processing. I excel at transforming complex datasets into actionable insights, significantly enhancing decision-making processes.
+I'm **Pamela**, a skilled and dynamic Data Scientist with an **MS in Analytics from Georgia Institute of Technology** and a **BS in Mathematics from Georgia State University**. My proficiency lies in machine learning, programming, database management, advanced data visualization, and natural language processing. I excel at transforming complex datasets into actionable insights, significantly enhancing decision-making processes.
 
 ## ✨ Current Focus and Achievements
 
