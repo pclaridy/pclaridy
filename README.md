@@ -30,28 +30,28 @@ My work spans predictive modeling, machine learning, and natural language proces
 
 ## 🌟 Featured Projects
 
-### [Residential Real Estate Predictive Modeling](https://github.com/pclaridy/USRealEstateTrends)  
+### [Predictive Modeling of U.S. Housing Prices Using Zillow’s 2023 Listings](https://github.com/pclaridy/us-housing-market-analytics-2023)  
 Analyzed Zillow’s 2023 housing data to build machine learning models that estimate U.S. residential property prices. This project emphasized model interpretability, regional price insights, and interactive mapping to support decisions by investors, analysts, and policymakers.
 
-### [Predicting Body Fat Percentage](https://github.com/pclaridy/body-fat-predictive-analytics)  
+### [Predicting Body Fat Percentage: A Comparative Study of Regression Techniques](https://github.com/pclaridy/body-fat-predictive-analytics)  
 Developed and evaluated multiple regression models to estimate body fat from physiological measurements. The study explored feature selection, model diagnostics, and simulation-based validation, offering accessible alternatives to costly direct measurement methods.
 
-### [E-commerce Insights: Advanced Analytics of Adidas Sales Performance](https://github.com/pclaridy/adidas-us-sales-predictive-analytics)  
+### [Predictive Analytics in E-commerce: Adidas Sales Dataset](https://github.com/pclaridy/adidas-us-sales-predictive-analytics)  
 Used regression, classification, and time series models to analyze Adidas U.S. sales data. The project provided insight into product performance, sales segmentation, and regional demand patterns, enabling data-informed sales strategy.
 
-### [Lifestyle Factors and General Health: A Predictive Analysis](https://github.com/pclaridy/general-health-lifestyle-factors)  
+### [Lifestyle Factors and General Health: Predicting Wellness Through Behavioral Data](https://github.com/pclaridy/lifestyle-health-analysis)  
 Used 2022 CDC BRFSS survey data to predict self-reported health status based on lifestyle variables. Gradient Boosting and Random Forest models helped uncover interpretable predictors to inform public health strategy.
 
-### [Comparison of Quasi-Random and Pseudo-Random Sequences in Monte Carlo Integration](https://github.com/pclaridy/monte-carlo-discrepancy-analysis)  
+### [Low-Discrepancy Sequences in Action: A Monte Carlo Comparison of Quasi-Random vs. Pseudo-Random Sampling](https://github.com/pclaridy/quasi_random)  
 Investigated the impact of Sobol, Halton, and Faure sequences versus traditional pseudo-random numbers on integration accuracy and discrepancy. The project featured visual analysis of point distribution and statistical evaluation of error reduction.
 
 ### [Advanced Segmentation Analysis: Unlocking Mall Customer Insights](https://github.com/pclaridy/mall-customer-segmentation)  
 Applied five clustering algorithms on mall customer data using PCA-reduced features. Segments were interpreted to support targeted marketing and business optimization, with added validation via silhouette scores and preprocessing pipelines.
 
-### [Predictive Insights into Handwritten Digit Classification](https://github.com/pclaridy/digit-classification-knn-linreg)  
+### [Predictive Insights into Handwritten Digit Classification](https://github.com/pclaridy/handwritten-zipcode-classification)  
 Compared Linear Regression and K-Nearest Neighbors for classifying handwritten digits 5 and 6. Through cross-validation and error analysis, the project demonstrated high accuracy with interpretable, lightweight models.
 
-### [Used Toyota Corolla Price Modeling](https://github.com/pclaridy/corolla-sales-regression-analysis)  
+### [Automotive Analytics: Advanced Regression Models of Toyota Corolla Sales Performance](https://github.com/pclaridy/corolla-sales-regression-analysis)  
 Modeled used car prices using linear regression and transformation techniques. Compared full and reduced models using ANOVA to identify key pricing factors and support decision-making in automotive sales.
 
 ## 📬 How to reach me
